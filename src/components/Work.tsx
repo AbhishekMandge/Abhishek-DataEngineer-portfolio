@@ -8,19 +8,19 @@ const projects = [
     title: "Apple Data Analysis Using Apache Spark",
     category: "Data Analysis Project",
     tools: "PySpark, Databricks, Azure, Python",
-    image: "/images/Solidx.png",
+    image: "/images/apple_spark.png",
   },
   {
     title: "Azure Lakehouse Modernization",
     category: "Enterprise Migration",
     tools: "ADF, Databricks, Delta Lake, DBT",
-    image: "/images/radix.png",
+    image: "/images/azure_lakehouse.png",
   },
   {
     title: "Banking Domain Framework",
     category: "Global Banking Client",
     tools: "Azure Synapse, SQL Server, Purview",
-    image: "/images/bond.png",
+    image: "/images/banking_domain.png",
   }
 ];
 
